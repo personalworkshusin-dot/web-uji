@@ -1,9 +1,10 @@
 const quotes = [
-    { text: "Cara memulai adalah dengan berhenti berbicara dan mulai melakukan.", author: "Walt Disney" },
-    { text: "Masa depan adalah milik mereka yang percaya pada keindahan mimpi-mimpi mereka.", author: "Eleanor Roosevelt" },
-    { text: "Jangan biarkan hari kemarin menyita terlalu banyak hari ini.", author: "Will Rogers" },
-    { text: "Kegagalan adalah bumbu yang memberi rasa pada kesuksesan.", author: "Truman Capote" },
-    { text: "Kode yang baik adalah dokumentasi terbaiknya sendiri.", author: "Steve McConnell" }
+    { text: "Jan Takut Mengulai Di Kamar Kawan.", author: "Lutbi" },
+    { text: "Ak Suka Femboy.", author: "Alim" },
+    { text: "Tobat lah kawan.", author: "Husin" },
+    { text: "Cina Sei batang.", author: "Ike" },
+    { text: "Iyun.", author: "kia" },
+    { text: "Sei Rangas is the best.", author: "dawi" },
 ];
 
 function generateQuote() {
