@@ -13,5 +13,5 @@ function generateQuote() {
     
     // Menampilkan ke HTML
     document.getElementById("quote-text").innerText = "${selectedQuote.text}";
-    document.getElementById("quote-author").innerText = - ${selectedQuote.author};
+    document.getElementById("quote-author").innerText = - "${selectedQuote.author}";
 }
